@@ -7,7 +7,7 @@ require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/gofiber/contrib/fiberzerolog v1.0.2
 	github.com/gofiber/contrib/jwt v1.0.10
-	github.com/gofiber/fiber/v2 v2.52.5
+	github.com/gofiber/fiber/v2 v2.52.6
 	github.com/gofiber/template/html/v2 v2.1.2
 	github.com/gofiber/utils v1.1.0
 	github.com/golang-jwt/jwt/v5 v5.2.1
@@ -51,7 +51,7 @@ require (
 	golang.org/x/image v0.18.0 // indirect
 	golang.org/x/net v0.28.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
 	golang.org/x/tools v0.23.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
